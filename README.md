@@ -5,3 +5,4 @@ Procedure:
 3. Select the input directory containing your source images.  
 4. Specify the output directory for converted files.  
 5. Input the original image file extension (e.g., `.jpg`, `.czi`).  
+#A known issue exists in the current version: multiple nested folders are unintentionally generated after image conversion. These folders can be safely deleted without affecting the core conversion functionality.
