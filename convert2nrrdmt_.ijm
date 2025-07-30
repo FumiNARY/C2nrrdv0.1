@@ -1,9 +1,7 @@
 /*
- * Fiji/ImageJ Macro: Batch Export to NRRD (Recorder Version)
+ * Fiji/ImageJ Macro: Batch Export to NRRD
  *
  * 描述:
- * 这个宏根据用户提供的 Macro Recorder 示例进行修改，
- * 使用 'run("Nrrd ...", "nrrd=[filepath]")' 命令来批量保存文件。
  *
  * 使用方法:
  * 1. 在斐济 (Fiji) 中打开此宏 (Plugins > New > Macro)。
